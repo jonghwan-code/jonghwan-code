@@ -6,15 +6,15 @@
 
 <div align=center>
 	
-#### 안녕하세요 Front-end 개발자, 양종환입니다.
-##### 매일 성장하는 개발자가 되기 위해 즐겁게 공부합니다.🚀<br />개발을 공부하는 목적은 우리의 공간과 커뮤니티가 재밌고 편리한 곳이 될 수 있도록 하는 것입니다.🌏
+### 안녕하세요 Front-end 개발자, 양종환입니다.
+#### 매일 성장하는 개발자가 되기 위해 즐겁게 공부합니다.🚀<br />개발을 공부하는 목적은 우리의 공간과 커뮤니티가 재밌고 편리한 곳이 될 수 있도록 하는 것입니다.🌏
 
 </div>
 
 <div align=center style="color: red">
 	
-#### Hello, Thi is Peter Yang, Front-end developer.
-##### I am trying to study with pleasure to be developer who can grow every single day.🚀<br />The vision of my development studying is to make our life and community a fun and convenience.🌏
+### Hello, Thi is Peter Yang, Front-end developer.
+#### I am trying to study with pleasure to be developer who can grow every single day.🚀<br />The vision of my development studying is to make our life and community a fun and convenience.🌏
 
 </div>
   
